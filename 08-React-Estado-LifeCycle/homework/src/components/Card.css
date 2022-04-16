@@ -1,0 +1,57 @@
+.tarjeta {
+    background-color: aliceblue;
+    display: inline-block;
+    position: relative;
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+    border-color: rgba(0, 0, 0, 0.103);
+    border-style: outset;
+    border-radius: 5px;
+    border-width: 1px;
+    margin: 15px;
+    
+}
+
+.close-button {
+    background-color: red;
+    color: white;
+    border-color: brown;
+    position: absolute;
+    top: 3%;
+    right: 2%;
+    
+}
+
+.ciudad{
+    padding: 5px;
+    display: block;
+    
+}
+
+.temp {
+    background-color: rgba(128, 128, 128, 0.123);
+    width: fit-content;
+    float: left;
+    padding: 5px;
+    display: block;
+    margin: 10px;
+    
+    
+}
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 16px;
+}
+.imge {
+    float: left;
+    display: block;
+   
+}
+
+.cardpic{
+    -webkit-filter: invert(80%);
+}

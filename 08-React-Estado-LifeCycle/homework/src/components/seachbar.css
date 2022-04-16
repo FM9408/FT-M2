@@ -1,0 +1,13 @@
+input {
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.submit-button {
+    background-color: rgba(0, 0, 0, 0.575);
+    border-radius: 6px;
+    border-color: rgb(7, 255, 7);
+    color: rgb(0, 255, 0);
+    border-width: 1px;
+    font-weight: lighter;
+}
